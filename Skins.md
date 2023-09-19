@@ -1,6 +1,11 @@
 # Original Nyash Skins
 The skins are listed in order of most recent!
 
+## Nyash Skin V8
+### [NM Version](https://drive.google.com/uc?export=download&id=1d5lrB_sFduu8ATgh-FZK1FdnrJwPXan1)
+![](https://nyash.s-ul.eu/NyashSkins/7zZ7VTD7)
+### [DT Version](https://drive.google.com/drive/folders/1dDuNwwU1fubQjVCiYDJpbw0TbY4zLx16?usp=sharing)
+![](https://nyash.s-ul.eu/NyashSkins/qElnPPoi)
 ## Nyash 31-07-2023
 ### [NM Version](https://drive.google.com/drive/folders/1a9tZ7tbKx48fMo6NCjq9XR9eYilWSdVi?usp=sharing)
 ![](https://nyash.s-ul.eu/NyashSkins/Uq4piLgb)
