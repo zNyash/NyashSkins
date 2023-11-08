@@ -1,6 +1,9 @@
 # Original Nyash Skins
 The skins are listed in order of most recent!
 
+## [Nyash Skin v9](https://drive.google.com/uc?export=download&id=1zsQeT6ls6dLQF4O_W1-BW2dIsf6fkTPv)
+![](https://nyash.s-ul.eu/NyashSkins/alcoc0wZ)
+
 ## Nyash Skin V8
 ### [NM Version](https://drive.google.com/uc?export=download&id=1d5lrB_sFduu8ATgh-FZK1FdnrJwPXan1)
 ![](https://nyash.s-ul.eu/NyashSkins/SaKm4j8m)
